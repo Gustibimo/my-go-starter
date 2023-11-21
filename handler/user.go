@@ -2,7 +2,7 @@ package handler
 
 import (
 	"my-go-starter/model"
-	userPkg "my-go-starter/pkg/user"
+	userPkg "my-go-starter/internal/user"
 	"my-go-starter/repository"
 	"my-go-starter/shared"
 	"net/http"
